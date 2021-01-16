@@ -1,0 +1,19 @@
+@font-face {
+	font-family: "Whitney";
+	font-display: swap;
+	src: url("../fonts/WhitneySemibold/Whitney-Semibold.eot");
+	src: local("O"), url("../fonts/WhitneySemibold/Whitney-Semibold.woff") format("woff"),
+		url("../fonts/WhitneySemibold/Whitney-Semibold.ttf") format("truetype");
+	font-weight: 600;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Whitney";
+	font-display: swap;
+	src: url("../fonts/WhitneyLight/Whitney-Light.eot");
+	src: local("O"), url("../fonts/WhitneyLight/Whitney-Light.woff") format("woff"),
+		url("../fonts/WhitneyLight/Whitney-Light.ttf") format("truetype");
+	font-weight: 300;
+	font-style: normal;
+}
